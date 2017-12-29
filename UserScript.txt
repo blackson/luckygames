@@ -1,0 +1,10 @@
+// ==UserScript==
+// @name         ETH_DICE_DINHHT
+// @namespace    https://www.facebook.com/ho.tandinh.3
+// @version      2.0
+// @description  3333
+// @author       Ho Tan Dinh
+// @match        https://luckygames.io/*
+// @require      https://raw.githubusercontent.com/hotandinh/luckygames/master/DICE_ETH.js
+// @grant        none
+// ==/UserScript==
