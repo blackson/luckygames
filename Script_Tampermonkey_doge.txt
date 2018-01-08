@@ -1,0 +1,11 @@
+// ==UserScript==
+// @name         DOGE_LuckyDICEBOT
+// @namespace    https://www.facebook.com/lanhhuyet510
+// @version      2.0
+// @description  3333
+// @author       Ngo Anh Duc
+// @match        https://luckygames.io/*
+// @require      https://raw.githubusercontent.com/hotandinh/luckygames/master/code_laiCao.js
+// @updateURL    https://github.com/lanhhuyet510/LuckyGames/blob/master/DICE_rand_para_installer.js
+// @grant        none
+// ==/UserScript==
